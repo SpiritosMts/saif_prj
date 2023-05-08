@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640893556568",
+    "firebase_url": "https://applicationhiit-default-rtdb.firebaseio.com",
+    "project_id": "applicationhiit",
+    "storage_bucket": "applicationhiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640893556568:android:44ff1428efc2bae646b72d",
+        "android_client_info": {
+          "package_name": "com.example.stageapp.stageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640893556568-g7na1is8uhniaodq650vh0u0k9tqh43l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stageapp.stageapp",
+            "certificate_hash": "b39ce4aaea53622018e8ab545f46ed909f3f9ec2"
+          }
+        },
+        {
+          "client_id": "640893556568-d61tt20brk5jth4dbeford2b4ck7kjuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkfMhW4PRh31fRCVDOehXpS-T1oXqNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640893556568-d61tt20brk5jth4dbeford2b4ck7kjuk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640893556568-d10i8v46dvq21qhihtvvn5s6d38f6d7o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationhiit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
